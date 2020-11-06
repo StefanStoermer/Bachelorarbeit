@@ -10,6 +10,6 @@ Das Programm besteht aus diesen drei Dateien.
 ## Hinweise
 Alle drei Dateien müssen zusammen bleiben, wobei die Datei "Quasinewton-Verfahren" die Datei ist, welche ausgeführt werden muss.
 
-Nach dem Ausführen des Programms öffnet sich die Gui, welche einem ermöglicht die Dimension der Funktion, sowie deren Anzahl festzulegen. Anschließend stehen drei Möglichkeiten zur Verfügung diese Funktionen zu erzeugen. Zuletzt besteht die Möglichkeit eine eigene Toleranzschwelle festzulegen (ohne Eingabe: Tolleranz = 10^-8) und das Optimierungsverfahren zu starten.
+Nach dem Ausführen des Programms öffnet sich die GUI, welche einem ermöglicht die Dimension der Funktion, sowie deren Anzahl festzulegen. Anschließend stehen drei Möglichkeiten zur Verfügung diese Funktionen zu erzeugen. Zuletzt besteht die Möglichkeit eine eigene Toleranzschwelle festzulegen (ohne Eingabe: Tolleranz = 10^-8) und das Optimierungsverfahren zu starten.
 
 Entwickelt und getestet wurde das Programm mit der Entwicklungsumgebung PyCharm von JetBrains. Ausführen der Datei von der Konsole ist jedoch ebenso möglich.
