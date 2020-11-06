@@ -319,6 +319,7 @@ def hesse_f_N(x):
 
 
 # Algorithmus zum Optimieren der gegebenen Funktionen.
+# Ausgabe des Optimierers sowie der bestimmten Werte erfolgt auf der Konsole.
 def optimize():
 
     try:
